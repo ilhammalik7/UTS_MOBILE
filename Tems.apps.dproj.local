@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/04 14:01:52.000.973,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/04 14:13:16.000.512,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\percobaan1.dproj</Transaction>
+    <Transaction>2023/10/05 02:05:59.000.876,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Temsaplication.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\percobaan1.dproj</Transaction>
+    <Transaction>2023/10/05 02:06:24.000.442,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Tems.apps.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Temsaplication.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="UGTSJFON65YPR4N7"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
